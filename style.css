@@ -33,9 +33,10 @@ html {
 }
 body {
     font-family: 'Poppins',sans-serif;
-    min-width: 100vh;
+    min-width: 100vw;
     overflow-x: hidden;
     position: relative;
+    border: 2px solid red;
 }
 a {
     text-decoration: none;
