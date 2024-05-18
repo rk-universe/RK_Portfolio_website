@@ -36,7 +36,6 @@ body {
     min-width: 100vw;
     overflow-x: hidden;
     position: relative;
-    border: 2px solid red;
 }
 a {
     text-decoration: none;
@@ -678,6 +677,9 @@ header .container {
     .contact_links a { 
         font-size: 14px;   
     }  
+    .contact_links{  
+        width: 85%;    
+    }
     .footer_menu {
         align-items: center;
         justify-content: center;   
