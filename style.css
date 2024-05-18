@@ -555,7 +555,7 @@ header .container {
 }
 .Por_card{
     background-color: #faf9ff;
-    height: 450px;
+    height: 370px;
     display: flex;
     border-radius: 5px;
     padding-top: 10px;
@@ -579,7 +579,7 @@ header .container {
     object-fit: fill;
     border-radius: 10px;
 }
-/* .pro_in_img{
+.pro_in_img{
     position: relative;
     left: 0px;
     top: -20px;
@@ -588,7 +588,7 @@ header .container {
 }
 .Por_card:hover .pro_in_img{
     z-index: 1;
-} */
+}
 .live_demo {
     cursor: not-allowed;
 }
