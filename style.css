@@ -252,7 +252,7 @@ header .container {
  }
 
  .hero_container h1 {
-    font-size: 40px;
+    font-size: 35px;
     font-weight: 600;
     font-family: 'Poppins' , sans-serif;
     white-space: nowrap;
@@ -301,7 +301,7 @@ header .container {
         font-size: 16px;
     }
     .hero_content h1 {
-        font-size: 32px;
+        font-size: 23px;
     }
     .hero_content p {
         font-size: 15px;
